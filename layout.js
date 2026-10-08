@@ -1,0 +1,1 @@
+import "./globals.css"; export const metadata={title:"EverydayGuide USA",description:"Simple, practical guides for everyday life in the USA."}; export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
